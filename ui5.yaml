@@ -1,0 +1,7 @@
+specVersion: '2.2'
+metadata:
+  name: ui5-middleware-server-proxy
+kind: extension
+type: server-middleware
+middleware:
+  path: lib/proxy.js

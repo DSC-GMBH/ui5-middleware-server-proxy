@@ -1,0 +1,10 @@
+node_modules/
+# to include file templates and code styles
+!.idea/
+.idea/*
+
+!.idea/fileTemplates/
+!.idea/codeStyles/
+
+**/dist
+**/.env

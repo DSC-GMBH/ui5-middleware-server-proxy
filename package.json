@@ -1,0 +1,26 @@
+{
+  "name": "ui5-middleware-server-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSC-GMBH/ui5-middleware-server-proxy.git"
+  },
+  "author": "DSC_GMBH",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy/issues"
+  },
+  "homepage": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http-proxy": "^1.18.0"
+  }
+}
