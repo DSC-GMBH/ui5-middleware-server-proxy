@@ -7,7 +7,7 @@ Proxy middleware for [ui5-server](https://github.com/SAP/ui5-server).
 ```bash
 "devDependencies": {
     ...,
-    "ui5-middleware-server-proxy": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy.git#0.1.0",
+    "ui5-middleware-server-proxy": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy.git#X.X.X",
     ...
 },
 ```
@@ -31,7 +31,7 @@ Proxy middleware for [ui5-server](https://github.com/SAP/ui5-server).
 ```json
 "devDependencies": {
     ...,
-    "ui5-middleware-server-proxy": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy.git#0.1.0",
+    "ui5-middleware-server-proxy": "https://github.com/DSC-GMBH/ui5-middleware-server-proxy.git#X.X.X",
     ...
 },
 "ui5": {
